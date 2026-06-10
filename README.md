@@ -1,8 +1,7 @@
-# Local Agentic Airline Assistant
-
+# Local Agentic Airline Assitant
 ## Overview
 
-Local Agentic Airline Assistant is an Agentic AI project that demonstrates how Large Language Models can interact with external tools and databases to perform real-world tasks autonomously.
+Local Agentic Airline Assistant is an Agentic AI project that demonstrates how Large Language Models can interact with external tools and databases to perform real world tasks autonomously.
 
 The project uses Microsoft AutoGen, Ollama, Qwen2.5:7B, and SQLite to create an AI airline assistant capable of understanding user requests, deciding when external information is required, executing Python tools, querying a local database, and generating natural language responses.
 
